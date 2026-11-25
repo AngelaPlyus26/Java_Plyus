@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 // Прыгучее путешествие
-// Расстояние на длину языка
+
 public class Main {
 public static void main(String[] args) throws FileNotFoundException {
 
