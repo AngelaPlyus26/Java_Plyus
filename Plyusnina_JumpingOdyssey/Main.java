@@ -39,7 +39,7 @@ public static void main(String[] args) throws FileNotFoundException {
             break;
         }
     }
-    if (!isEaten==true) out.println("Yes");
+    if (isEaten==false) out.println("Yes");
 
     // проверка
     System.out.println("КУЗНЕЧИК: количество прыжков N= "+n);
